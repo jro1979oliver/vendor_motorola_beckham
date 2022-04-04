@@ -578,6 +578,7 @@ PRODUCT_PACKAGES += \
     ModFmwkProxyService \
     ModService \
     MotCamera2 \
+    MotorolaSettingsProvider \
     ProjectorApp \
     ims \
     com.motorola.motosignature
